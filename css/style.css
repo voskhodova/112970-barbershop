@@ -1,0 +1,51 @@
+body,
+p  {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 24px;
+  color: #000000;
+}
+h1,
+.index-content-title {
+  font-size: 30px;
+}
+h2 {
+  font-size: 24px;
+}
+a {
+  text-decoration: underline;
+}
+.login,
+.main-navigation {
+  font-size: 16px;
+  color: #ffffff;
+}
+.features-name {
+  font-size: 30px;
+  color: #ffffff;
+}
+time {
+  font-weight: normal;
+  }
+.btn,
+.footer-contacts,
+.footer-social p,
+.breadcrumb,
+.footer-copyright p,
+.features-item p  {
+  color: #ffffff;
+}
+.footer-contacts a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+.active {
+  color: #aba9a7;
+}
+ul li {
+  list-style-type: /*здесь, по идее, надо поставить, что в списке маркерами идут ромбики, но типовой команды для этого нет*/;
+}
+.name-item {
+  line-height: 18px;
+}
